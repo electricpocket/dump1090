@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#N.B This is not in use. The actual script now  used is under marineband/adsb 
 import sys #for args
 import subprocess
 from datetime import datetime
